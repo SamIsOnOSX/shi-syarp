@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\amen.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\amen.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\amen.AssemblyInfo.cs
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\amen.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\shi syarp\amen\bin\Debug\net8.0\amen.exe
+c:\Users\Admin\Desktop\shi syarp\amen\bin\Debug\net8.0\amen.deps.json
+c:\Users\Admin\Desktop\shi syarp\amen\bin\Debug\net8.0\amen.runtimeconfig.json
+c:\Users\Admin\Desktop\shi syarp\amen\bin\Debug\net8.0\amen.dll
+c:\Users\Admin\Desktop\shi syarp\amen\bin\Debug\net8.0\amen.pdb
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\amen.dll
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\refint\amen.dll
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\amen.pdb
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\amen.genruntimeconfig.cache
+c:\Users\Admin\Desktop\shi syarp\amen\obj\Debug\net8.0\ref\amen.dll

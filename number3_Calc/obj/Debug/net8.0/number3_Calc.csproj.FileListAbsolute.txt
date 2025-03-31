@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\bin\Debug\net8.0\number3_Calc.exe
+C:\Users\Admin\Desktop\shi syarp\number3_Calc\bin\Debug\net8.0\number3_Calc.deps.json
+C:\Users\Admin\Desktop\shi syarp\number3_Calc\bin\Debug\net8.0\number3_Calc.runtimeconfig.json
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\bin\Debug\net8.0\number3_Calc.dll
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\bin\Debug\net8.0\number3_Calc.pdb
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\number3_Calc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\number3_Calc.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\number3_Calc.AssemblyInfo.cs
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\number3_Calc.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\number3_Calc.dll
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\refint\number3_Calc.dll
+c:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\number3_Calc.pdb
+C:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\number3_Calc.genruntimeconfig.cache
+C:\Users\Admin\Desktop\shi syarp\number3_Calc\obj\Debug\net8.0\ref\number3_Calc.dll

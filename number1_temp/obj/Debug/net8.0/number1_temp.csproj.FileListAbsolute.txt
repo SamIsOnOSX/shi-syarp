@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\shi syarp\number1_temp\bin\Debug\net8.0\number1_temp.exe
+C:\Users\Admin\Desktop\shi syarp\number1_temp\bin\Debug\net8.0\number1_temp.deps.json
+C:\Users\Admin\Desktop\shi syarp\number1_temp\bin\Debug\net8.0\number1_temp.runtimeconfig.json
+C:\Users\Admin\Desktop\shi syarp\number1_temp\bin\Debug\net8.0\number1_temp.dll
+C:\Users\Admin\Desktop\shi syarp\number1_temp\bin\Debug\net8.0\number1_temp.pdb
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\number1_temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\number1_temp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\number1_temp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\number1_temp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\number1_temp.dll
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\refint\number1_temp.dll
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\number1_temp.pdb
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\number1_temp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\shi syarp\number1_temp\obj\Debug\net8.0\ref\number1_temp.dll

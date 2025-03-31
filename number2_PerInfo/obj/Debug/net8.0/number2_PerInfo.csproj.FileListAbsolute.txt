@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\bin\Debug\net8.0\number2_PerInfo.exe
+C:\Users\Admin\Desktop\shi syarp\number2_PerInfo\bin\Debug\net8.0\number2_PerInfo.deps.json
+C:\Users\Admin\Desktop\shi syarp\number2_PerInfo\bin\Debug\net8.0\number2_PerInfo.runtimeconfig.json
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\bin\Debug\net8.0\number2_PerInfo.dll
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\bin\Debug\net8.0\number2_PerInfo.pdb
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\number2_PerInfo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\number2_PerInfo.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\number2_PerInfo.AssemblyInfo.cs
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\number2_PerInfo.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\number2_PerInfo.dll
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\refint\number2_PerInfo.dll
+c:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\number2_PerInfo.pdb
+C:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\number2_PerInfo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\shi syarp\number2_PerInfo\obj\Debug\net8.0\ref\number2_PerInfo.dll
