@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-
+using System.Linq; 
+//using 
 public class Transaction
 {
     public string Description { get; set; }
@@ -151,7 +151,7 @@ class Program
                         string type = Console.ReadLine();
                         Console.Write("Category: ");
                         string cat = Console.ReadLine();
-                        Console.Write("Date (yyyy-mm-dd): ");
+                        Console.Write("Date (yyyy-mm-dd): "); // usbon ata nako ni
                         DateTime date = DateTime.Parse(Console.ReadLine());
 
                         tracker.AddTransaction(new Transaction(desc, amount, type, cat, date));
@@ -183,7 +183,7 @@ class Program
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine($"Error: {ex.Message}"); //hell yeah
             }
         }
     }
